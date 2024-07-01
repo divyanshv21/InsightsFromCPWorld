@@ -6,6 +6,7 @@ This loop prints elements of an array with a space between each element and a ne
 for (int i = 0; i < n; i++) {
     std::cout << x[i] << " \n"[i == n - 1];
 }
+```
 
 ### Explanation
 
